@@ -4,4 +4,6 @@ Landing Page of the famous game God of War Ragnarok created only for layout purp
 
 I hope you enjoy it!!
 
-Any correction or comment is welcome.
+Any correction or comment are welcome.
+
+![Alt text](image.png)
