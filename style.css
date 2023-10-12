@@ -507,6 +507,7 @@ footer > p {
   .locations {
     width: 100%;
     height: 700px;
+    padding: var(--gowr-m-padding);
   }
 
   .locationsInfo {
@@ -539,5 +540,6 @@ footer > p {
   .locationsInfo2 {
     margin-top: var(--gowr-m-margin);
     text-align: center;
+    width: 100%;
   }
 }
